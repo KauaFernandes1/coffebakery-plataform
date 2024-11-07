@@ -1,6 +1,7 @@
 :root {
     font-size: 10px;
     --main-color: #d3ad7f;
+    --bt-hover: #ad8b61;
     --black: #131313;
     --bg: #010103;
     --border: 0.1rem solid rgba(255,255,255, 0.3);
